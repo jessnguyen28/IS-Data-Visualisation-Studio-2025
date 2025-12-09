@@ -19,8 +19,8 @@ The project was delivered across four structured assignments, each replicating a
 
 > This repository contains my initial visualisations and final Tableau dashboard prototypes, created as part of the final deliverables.
 
-✔ Initial Chart Visualisations.twbx – early worksheets exploring stress factors
-✔ Dashboard Prototype.twbx – final dashboard designs following feedback and refinement
+- ✔ Initial Chart Visualisations.twbx – early worksheets exploring stress factors
+- ✔ Dashboard Prototype.twbx – final dashboard designs following feedback and refinement
 
 ## 🎯 Objectives
 - Understand and analyse key stress factors impacting university students

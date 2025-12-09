@@ -1,7 +1,7 @@
 # 🎨 Dashboard Design 
 
 **UTS Subject: Information Systems Data Visualisation Studio (2025)**
-**Project by Jessica and other peers**
+**Project by Jessica Nguyen**
 Tools: Tableau and Excel
 
 ## Project Overview
@@ -19,8 +19,8 @@ The project was delivered across four structured assignments, each replicating a
 
 > This repository contains my initial visualisations and final Tableau dashboard prototypes, created as part of the final deliverables.
 
-- ✔ Initial Chart Visualisations.twbx – early worksheets exploring stress factors
-- ✔ Dashboard Prototype.twbx – final dashboard designs following feedback and refinement
+- Initial Chart Visualisations.twbx – early worksheets exploring stress factors
+- Dashboard Prototype.twbx – final dashboard designs following feedback and refinement
 
 ## 🎯 Objectives
 - Understand and analyse key stress factors impacting university students
@@ -41,7 +41,7 @@ The project was delivered across four structured assignments, each replicating a
 - Determined which variables best represent stress patterns
 
 # 3️⃣ Shape Data
-Using Tableau Prep / Tableau Data Interpreter / Excel, I performed:
+Using Tableau + Excel, I performed:
 - Data cleaning
 - Correcting data types
 - Pivoting and splitting fields where necessary

@@ -18,6 +18,7 @@ The project was delivered across four structured assignments, each replicating a
 4. Build a final dashboard prototype
 
 > This repository contains my initial visualisations and final Tableau dashboard prototypes, created as part of the final deliverables.
+
 ✔ Initial Chart Visualisations.twbx – early worksheets exploring stress factors
 ✔ Dashboard Prototype.twbx – final dashboard designs following feedback and refinement
 

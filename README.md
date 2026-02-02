@@ -6,8 +6,8 @@
 
 ## Project Overview
 This project involved both individual and group-based components. Each student was responsible for designing two Tableau dashboard prototypes, while core planning tasks, such as defining the problem, identifying stakeholders, and shaping the dataset were completed collaboratively as a team.
-The project explores tertiary student stress factors — including academic, social, and psychological stress from the Kaggle dataset below.
-**Dataset: Kaggle – Student Stress Monitoring Dataset
+The project explores tertiary student stress factors — including academic, social, and psychological stress from the Kaggle dataset below.  
+Dataset: Kaggle – Student Stress Monitoring Dataset
 https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets
 
 The goal was to apply the INSIGHT visual analytics framework to design an interactive dashboard prototype that presents meaningful insights for university stakeholders such as student support teams, academic advisors, and wellbeing staff.

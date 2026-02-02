@@ -76,4 +76,4 @@ Designed two Tableau dashboards, each with at least 3 charts:
 
 ---
 
-*This project was submitted as part of my Bachelor of Information Technology at the University of Technology Sydney UTS)*
+*This project was submitted as part of a class assignment in the Bachelor of Information Technology at the University of Technology Sydney UTS*
